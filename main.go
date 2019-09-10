@@ -7,6 +7,6 @@ import (
 
 func main() {
 
-	blue.blueFunc()
-	red.redFunc()
+	blue.PrintMsg()
+	red.PrintMsg()
 }

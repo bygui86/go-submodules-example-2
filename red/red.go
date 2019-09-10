@@ -2,7 +2,7 @@ package red
 
 import "fmt"
 
-func redFunc() {
+func PrintMsg() {
 
 	fmt.Println("I'm Daredevil ]:)")
 }
